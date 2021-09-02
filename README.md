@@ -1,2 +1,2 @@
-# PromagaEstudiantes-
+# ProgramaEstudiantes-
 Programa Desarrollado en Java
